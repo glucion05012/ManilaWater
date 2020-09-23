@@ -19,14 +19,14 @@ ion-content{
     background-color:white;
 }
 // background-color: #;
-.img-form {
+.form-container {
     margin-left: auto;
     margin-right: auto;
     background-color: #0399CD;
     padding: 10px;
 }
 
-.img-form ion-input{
+.form-container ion-input{
     margin-left: auto;
     margin-right: auto;
     width: 80%;
@@ -34,7 +34,7 @@ ion-content{
     background-color: white;
 }
 
-.img-form ion-button{
+.form-container ion-button{
     display: block;
     margin-left: auto;
     margin-right: auto;
