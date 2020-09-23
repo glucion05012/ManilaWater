@@ -1,0 +1,56 @@
+ion-content{
+    --background: #fff url('../../assets/images/bg1.jpg') no-repeat center center / cover;
+    
+}
+
+.container{
+    font-size: 12px;
+}
+
+.logo{
+    height: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-container{
+    width: 100%;
+    background-color:white;
+}
+// background-color: #;
+.img-form {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0399CD;
+    padding: 10px;
+}
+
+.img-form ion-input{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 10px;
+    background-color: white;
+}
+
+.img-form ion-button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.separator{
+   text-align: center;
+   color: white;
+   padding: 2em;
+}
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5em;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
