@@ -1,0 +1,7 @@
+{
+  "name": "ManilaWater",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
